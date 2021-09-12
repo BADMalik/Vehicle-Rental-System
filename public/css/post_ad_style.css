@@ -1,0 +1,452 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Post_Ad_Page {
+	position: absolute;
+	width: 1400px;
+	height: 800px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+}
+#Background_Image {
+	opacity: 0.97;
+	position: absolute;
+	width: 1431px;
+	height: 954px;
+	left: -15px;
+	top: -63px;
+	overflow: visible;
+}
+#Main_Logo {
+	mix-blend-mode: multiply;
+	position: absolute;
+	width: 203px;
+	height: 122px;
+	left: 130px;
+	top: 21px;
+	overflow: visible;
+}
+#Group_4 {
+	position: absolute;
+	width: 129px;
+	height: 65px;
+	left: 1106px;
+	top: 50px;
+	overflow: visible;
+}
+#Group_3 {
+	position: absolute;
+	width: 129px;
+	height: 65px;
+	overflow: visible;
+}
+#Group_View_Category {
+	position: absolute;
+	width: 477px;
+	height: 59px;
+	left: 130px;
+	top: 152px;
+	overflow: visible;
+}
+.Menus {
+	width: 400px; 
+	margin: 0 auto;
+	}
+	.Menus ul{
+	list-style: none;
+	margin-top: 0%;
+	}
+	.Menus ul li {
+	 opacity: 0.95;
+	 filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	 background-image: linear-gradient( rgb(109, 90, 146), rgb(128, 210, 235));
+	width: 437px;
+	border: 2px solid rgba(50, 107, 212, 0.678);
+	height: 50px;
+	line-height: 45px;
+	text-align: center;
+	float: left;
+	color: rgb(0, 0, 0);
+	font-size: 19px;
+	position: relative;
+	font-family: Yu Gothic UI ;
+	text-transform: uppercase;
+	font-weight: bold;
+	}
+	.Menus ul li:hover{
+		background-image: linear-gradient( rgb(162, 216, 193), rgba(51, 115, 158, 0.952)); 
+	}
+	
+	.Menus ul ul{
+	display: none;
+	margin-top: 1%;
+	}
+	.Menus ul li:hover > ul{
+	display: block;
+	}
+	#Polygon_1 {
+		fill: rgba(0,0,0,1);
+	}
+	.Polygon_1 {
+		overflow: visible;
+		position: absolute;
+		width: 15px;
+		height: 12px;
+		transform: translate(-130px, -155px) matrix(1,0,0,1,563,173) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+
+#Group_8 {
+	position: absolute;
+	width: 334px;
+	height: 59px;
+	left: 607px;
+	top: 152px;
+	overflow: visible;
+}
+#Group_9 .Menus ul li{
+    width: 300px;
+}
+#Group_8 .Menus ul li{
+    width: 300px;
+}
+#Polygon_1_ {
+	fill: rgba(0,0,0,1);
+}
+.Polygon_1_ {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 12px;
+	transform: translate(-180px, -155px) matrix(1,0,0,1,420,173) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+		top: 0px;
+}
+
+#Group_9 {
+	position: absolute;
+	width: 329px;
+	height: 59px;
+	left: 775px;
+	top: 140px;
+	overflow: visible;
+} 
+#View_Category li ul li{
+	background-image: linear-gradient( rgb(162, 216, 193), rgba(51, 115, 158, 0.952));
+}
+
+#Help_Center li ul li{
+	background-image: linear-gradient( rgb(162, 216, 193), rgba(51, 115, 158, 0.952));
+}
+
+#More li ul li{
+	background-image: linear-gradient( rgb(162, 216, 193), rgba(51, 115, 158, 0.952));
+}
+#More li ul li a {
+	color:black;
+	text-decoration: none;
+}
+#More {
+	
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 133px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(6,0,0,1);
+}
+#Polygon_1_ba {
+	fill: rgba(0,0,0,1);
+}
+.Polygon_1_ba {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 12px;
+	transform: translate(-180px, -155px) matrix(1,0,0,1,415,173) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+		top: 0px;
+}
+
+#Rectangle_3 {
+	fill: rgba(201,201,201,0.231);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1031px;
+	height: 558px;
+	left: 173.5px;
+	top: 220px;
+}
+#Rectangle_6 {
+	opacity: 0.64;
+	fill: rgba(197,226,240,1);
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1049px;
+	height: 105px;
+	left: 174px;
+	top: 220px;
+}
+#Post_Ad {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 219px;
+	top: 245px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(6,0,0,1);
+}
+#Add_Details {
+	left: 240px;
+	top: 378px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(6,0,0,1);
+}
+#Group_14 {
+	position: absolute;
+	width: 129px;
+	height: 65px;
+	left: 998px;
+	top: 698px;
+	overflow: visible;
+}
+#POST button{
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));	
+		font-size: 26px;
+		background-image: linear-gradient(rgb(65, 179, 214), rgb(70, 57, 95));
+		width:125px;
+		height: 57px;
+        border-radius: 30px;
+        border: none;
+        color: white;
+		padding: 15px 15px;
+	
+	}
+#Group_12 {
+	position: absolute;
+	width: 327px;
+	height: 55px;
+	left: 232px;
+	top: 434px;
+	overflow: visible;
+}
+#Ad_Title {
+	opacity: 0.76;
+	left: 33px;
+	top: 9.5px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(6,0,0,1);
+}
+#Group_13 {
+	position: absolute;
+	width: 327px;
+	height: 55px;
+	left: 232px;
+	top: 518px;
+	overflow: visible;
+}
+#Year {
+	opacity: 0.86;
+	left: 17px;
+	top: 5.5px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(6,0,0,1);}
+	
+#Group_17 {
+	position: absolute;
+	width: 327px;
+	height: 55px;
+	left: 232px;
+	top: 602px;
+	overflow: visible;
+}
+#Model {
+	opacity: 0.76;
+	left: 34px;
+	top: 9.5px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(6,0,0,1);
+}
+#Pass{  
+color: rgb(0, 0, 0);
+border-radius: 3px;   
+text-align: left;
+padding-left: 10px;
+font-family:Yu Gothic UI ;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+background-image: linear-gradient(rgb(115, 169, 185), rgb(150, 215, 248));
+position: absolute;
+width: 325px;
+height: 52px;
+left: -31px;
+top: -8px;
+overflow: visible;
+
+}
+  
+#Group_12_bf {
+	position: absolute;
+	width: 697px;
+	height: 90px;
+	left: 232px;
+	top: 685px;
+	overflow: visible;
+}
+#Ad_Description {
+	opacity: 0.86;
+	left: 33.882px;
+	top: 27.212px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(6,0,0,1);
+}
+#Uname{  
+	border-radius: 3px;  
+	text-align: left;
+	font-family:  Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	opacity: 0.95;
+    padding-left: 10px;
+	color: rgb(0, 0, 0);
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 698px;
+	height: 80px;
+	left: -35px;
+	top: -25px;
+	background-image: linear-gradient(rgb(115, 169, 185), rgb(150, 215, 248));
+}
+	
+#Group_18 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 276px;
+	height: 211px;
+	left: 882px;
+	top: 400px;
+	overflow: visible;
+}
+#Add_Image {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 276px;
+	height: 211px;
+	overflow: visible;
+}
+#Group_19 {
+	position: absolute;
+	width: 236px;
+	height: 84px;
+	left: 1096px;
+	top: 40px;
+	overflow: visible;
+}
+#Profile_Image {
+	position: absolute;
+	width: 85px;
+	height: 84px;
+	left: 121px;
+	overflow: visible;
+}
+#Group_10 {
+	position: absolute;
+	width: 85px;
+	height: 84px;
+	overflow: visible;
+}
+	#About_Us {
+		white-space: nowrap;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: normal;
+        font-size: 17px;
+		background-image: linear-gradient(rgb(65, 179, 214), rgb(70, 57, 95));
+        border-radius: 50%;
+        text-align: center;
+		color: rgba(255,255,255,1);
+        text-decoration: underline;
+        position: absolute;
+		overflow: visible;
+		width: 70px;
+		height: 70px;
+		left: 14px;
+		top: 10px;
+		opacity: 0.80;
+}
+
+

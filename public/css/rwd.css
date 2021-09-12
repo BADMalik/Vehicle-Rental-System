@@ -1,0 +1,96 @@
+<style>
+
+*{
+
+}
+	@media only screen and (max-width: 1200px) {
+  body {
+
+  }
+
+}
+@media only screen and (max-width:  900px) {
+
+}
+
+@media only screen and (max-width:  768px) {
+.parent{
+	width: 92%;
+
+}
+.parent1{
+	width: 92%;
+
+}
+.Display{
+	padding-left: 0px;
+
+}
+.p1{
+	margin-top: 50px;
+	margin-left: 2%;
+	width: 98%;
+	height:450px;
+
+}
+.p1:hover{
+	margin-top: 50px;
+	margin-left: 2%;
+	width: 98%;
+	height:450px;
+}
+.p2{
+	margin-top: 50px;
+	margin-left: 2%;
+	width: 98%;
+	height:450px;
+
+}
+.p2:hover{
+	width: 98%;
+		margin-top: 50px;
+		margin-left: 2%;
+			height:450px;
+}
+.p3{
+	margin-top:50px;
+	margin-left: 2%;
+	width: 98%;
+	height:450px;
+
+}
+.p3:hover{
+	margin-top: 50px;
+	margin-left: 2%;
+	width: 98%;
+	height:450px;
+}
+.p4{
+	margin-top: 50px;
+	margin-left: 2%;
+	width: 98%;
+	height:450px;
+
+}
+.p4:hover{
+	margin-top: 50px;
+	margin-left: 2%;
+	width: 98%;
+	height:450px;
+}
+.products .carousel-caption{
+  top: 95%;
+}
+.parent3 .child3{
+	width: 98%!important;
+}
+}
+
+
+
+
+
+
+
+
+</style>

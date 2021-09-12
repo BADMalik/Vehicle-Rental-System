@@ -1,0 +1,321 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Login_Page {
+	position: absolute;
+	width: 100%;
+	height: 800px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+}
+#Group_3 {
+	opacity: 0.58;
+	position: absolute;
+	width: 100%;
+	height: 954px;
+	left: -15px;
+	top: -63px;
+	overflow: visible;
+}
+#Background_Image {
+	opacity: 0.97;
+	position: absolute;
+	width: 100%;
+	height: 100vh;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Scroll_Group_1 {
+	opacity: 0.9;
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 100%;
+	height: 270px;
+	left: 15px;
+	top: 274px;
+	overflow: hidden;
+}
+#Group_1 {
+	position: absolute;
+	width: 100%;
+	height: 934px;
+	left: 0px;
+	top: -332px;
+	overflow: visible;
+}
+#Group_2 {
+	position: absolute;
+	width: 100%;
+	height: 934px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Car_Image {
+	position: absolute;
+	width: 100%;
+	height: 934px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Main_Logo {
+	mix-blend-mode: multiply;
+	position: absolute;
+	width: 203px;
+	height: 122px;
+	left: 130px;
+	top: 21px;
+	overflow: visible;
+}
+#Border_Image {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	border-radius: 10px;
+	width: 520px;
+	height: 570px;
+	left: 391px;
+	top: 27px;
+	overflow: visible;
+}
+
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	border-radius: 10px;
+
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 693px;
+	height: 700px;
+	left: 406px;
+	top: 39px;
+}
+#Main_Logo_2 {
+
+	mix-blend-mode: multiply;
+	position: absolute;
+	width: 155px;
+	height: 93px;
+	left: 400px;
+	top: 50px;
+	overflow: visible;
+}
+#OVRS_Log_In {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 538px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(79,82,179,1);
+}
+#Group_4 {
+	position: absolute;
+	width: 469.761px;
+	height: 91px;
+	left: 443.239px;
+	top: 210px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	opacity: 0.95;
+	fill: rgba(236,227,251,1);
+}
+.Rectangle_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	height: 109px;
+	left: 65.761px;
+	top: 0px;
+}
+#Enter_Username {
+	left: 178.761px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(79,82,179,1);
+}
+#Uname{
+	border-radius: 3px;
+	text-align: center;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	opacity: 0.95;
+	background-color: rgba(236,227,251,1);
+	color: rgba(79,82,179,1);
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 60px;
+	left: 68.761px;
+	top: 0px;
+	}
+	#Pass{
+	opacity: 0.95;
+	background-color: rgba(236,227,251,1);
+	color: rgba(79,82,179,1);
+	border-radius: 3px;
+	text-align: center;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(79,82,179,1);
+	position: absolute;
+	width: 300px;
+	height: 60px;
+	left: 68.761px;
+	top: 0px;
+	overflow: visible;
+
+	}
+
+#Rectangle_3 {
+	fill: rgba(79,82,179,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	width: 17px;
+	height: 17px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-423.239px, -305px) matrix(1,0,0,1,446.7431,329.3309) rotate(-42deg);
+	transform-origin: center;
+}
+#Group_5 {
+	position: absolute;
+	width: 469.761px;
+	height: 91px;
+	left: 443.239px;
+	top: 300px;
+	overflow: visible;
+}
+#Rectangle_2_x {
+	opacity: 0.95;
+	fill: rgba(236,227,251,1);
+}
+.Rectangle_2_x {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	height: 109px;
+	left: 65.761px;
+	top: 0px;
+}
+#Enter_Password {
+	left: 178.761px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(79,82,179,1);
+}
+#Rectangle_3_z {
+	fill: rgba(79,82,179,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_z {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	width: 17px;
+	height: 17px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-423.239px, -485px) matrix(1,0,0,1,446.7431,472.3309) rotate(-42deg);
+	transform-origin: center;
+}
+#Group_6 {
+	position: absolute;
+	width: 257px;
+	height: 65px;
+	left: 572px;
+	top: 400px;
+	overflow: visible;
+}
+#Log_In {
+
+	white-space: nowrap;
+	text-align: center;
+	border-radius: 30px;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	background-image: linear-gradient(rgba(79,82,179,1), rgb(57, 91, 95));
+	filter: drop-shadow(6px 6px 8px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#Forgot_Password {
+	left: 585px;
+	top: 470px;
+	position: absolute;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(132,9,226,1);
+
+}
+#Forgot_Password a {
+	margin-bottom: 10px;
+}
+#Forgot_Password div{
+	margin-left:-18px;
+}

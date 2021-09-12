@@ -1,0 +1,385 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	/* box-sizing: border-box; */
+	border: none;
+}
+body{
+    	margin: 0;
+	padding: 0;
+	/* box-sizing: border-box; */
+	border: none;
+
+}
+html
+{
+    	margin: 0;
+	padding: 0;
+	/* box-sizing: border-box; */
+	border: none;
+
+}
+#Signup_Page {
+	position: absolute;
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+}
+#Group_3 {
+	opacity: 0.58;
+	position: absolute;
+	width: 100%;
+	height: 954px;
+	left: -15px;
+	top: -63px;
+	overflow: visible;
+}
+#Background_Image {
+	opacity: 0.97;
+	position: absolute;
+	width: 100%;
+	height: 954px;
+	overflow: visible;
+}
+#Scroll_Group_1 {
+	opacity: 0.9;
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 100%;
+	height: 270px;
+	left: 15px;
+	top: 274px;
+	overflow: hidden;
+}
+#Group_1 {
+	position: absolute;
+	width: 100%;
+	height: 934px;
+	top: -332px;
+	overflow: visible;
+}
+#Group_2 {
+	position: absolute;
+	width: 100%;
+	height: 934px;
+	overflow: visible;
+}
+#Car_Image {
+	position: absolute;
+	width: 100%;
+	height: 934px;
+	overflow: visible;
+}
+
+#Main_Logo {
+	mix-blend-mode: multiply;
+	position: absolute;
+	width: 203px;
+	height: 122px;
+	left: 130px;
+	top: 21px;
+	overflow: visible;
+}
+#Border_Image {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 520px;
+	height: 570px;
+	left: 391px;
+	top: 27px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	border-radius: 10px;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 693px;
+	height: 700px;
+	left: 406px;
+	top: 39px;
+}
+#Main_Logo_2 {
+	mix-blend-mode: multiply;
+	position: absolute;
+	width: 155px;
+	height: 93px;
+	left: 400px;
+	top: 50px;
+	overflow: visible;
+}
+#OVRS_Sign_Up {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 525px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size:47px;
+	color: rgba(79,82,179,1);
+}
+#Group_4 {
+		position: absolute;
+		width: 469.761px;
+		height: 66px;
+		left: 456.239px;
+		top: 313px;
+		overflow: visible;
+}
+#Uname{
+border-radius: 3px;
+text-align: center;
+font-family: Poor Richard;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+opacity: 0.95;
+background-color: rgba(236,227,251,1);
+color: rgba(79,82,179,1);
+filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+position: absolute;
+overflow: visible;
+width: 300px;
+height: 40px;
+left: 55.761px;
+top: -20px;
+}
+
+#Email{
+	border-radius: 3px;
+	text-align: center;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	opacity: 0.95;
+	background-color: rgba(236,227,251,1);
+	color: rgba(79,82,179,1);
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 40px;
+	left: 55.761px;
+	top: -107px;
+	}
+
+
+#Pass1{
+	opacity: 0.95;
+background-color: rgba(236,227,251,1);
+color: rgba(79,82,179,1);
+border-radius: 3px;
+text-align: center;
+font-family: Poor Richard;
+font-weight: normal;
+font-size: 22px;
+color: rgba(79,82,179,1);
+position: absolute;
+overflow: visible;
+width: 300px;
+height: 40px;
+left: 55.761px;
+top: -80px;
+}
+
+#RPass{
+	opacity: 0.95;
+background-color: rgba(236,227,251,1);
+color: rgba(79,82,179,1);
+border-radius: 3px;
+text-align: center;
+font-family: Poor Richard;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+color: rgba(79,82,179,1);
+filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+overflow: visible;
+position: absolute;
+width: 300px;
+height: 40px;
+left: 55.761px;
+top: -135px;
+}
+
+#Rectangle_3 {
+	fill: rgba(79,82,179,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	width: 17px;
+	height: 17px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-443.239px, -422px) matrix(1,0,0,1,446.7431,316.884) rotate(-42deg);
+	transform-origin: center;
+}
+#Group_5 {
+	position: absolute;
+	width: 469.761px;
+	height: 71px;
+	left: 456.239px;
+	top: 493px;
+	overflow: visible;
+}
+#Rectangle_3_ {
+	fill: rgba(79,82,179,1);
+    stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_ {
+	width: 17px;
+	height: 17px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-443.239px, -622px) matrix(1,0,0,1,446.7431,462.2777) rotate(-42deg);
+	transform-origin: center;
+}
+.Signup_Button button {
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: center;
+	border-radius: 30px;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgb(252, 252, 252);
+	background-image: linear-gradient(rgba(79,82,179,1), rgb(57, 91, 95));
+	filter: drop-shadow(6px 6px 8px rgba(0, 0, 0, 0.161));
+	width: 180px;
+	height: 47px;
+	left: 572px;
+	top: 470px;
+}
+#Rectangle_4 {
+	fill: rgba(79,82,179,1);
+}
+.Rectangle_4 {
+	filter: drop-shadow(6px 6px 8px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 89px;
+}
+
+#I_Agree_to_terms_of_Service {
+	left: 558px;
+	top: 433px;
+	position: absolute;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(132,9,226,1);
+}
+#Already_have_an_Account_Login {
+	left: 545px;
+	top: 538px;
+	position: absolute;
+	overflow: visible;
+	width: 311px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(132,9,226,1);
+}
+#Already_have_an_Account_Login button {
+
+	width: 30px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-size: 18px;
+	color: rgba(132,9,226,1);
+}
+#Group_7 {
+	position: absolute;
+	width: 469.761px;
+	height: 68px;
+	left: 456.239px;
+	top: 402px;
+	overflow: visible;
+}
+#Rectangle_3_ba {
+	fill: rgba(79,82,179,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_ba {
+	width: 17px;
+	height: 17px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-443.239px, -412px) matrix(1,0,0,1,446.7431,317.7173) rotate(-42deg);
+	transform-origin: center;
+}
+#Group_8 {
+	position: absolute;
+	width: 469.761px;
+	height: 78px;
+	left: 456.239px;
+	top: 190px;
+	overflow: visible;
+}
+#Rectangle_2_bc {
+	opacity: 0.95;
+	fill: rgba(236,227,251,1);
+}
+.Rectangle_2_bc {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	height: 96px;
+	left: 65.761px;
+}
+#Rectangle_3_be {
+	fill: rgba(79,82,179,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_be {
+	width: 15px;
+	height: 15px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-443.239px, -330px) matrix(1,0,0,1,446.7431,322.7905) rotate(-42deg);
+	transform-origin: center;
+}

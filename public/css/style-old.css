@@ -1,0 +1,625 @@
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+
+	#Main_Page {
+		position: absolute;
+		width: 100%;
+		height: 1100px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+	}
+	#Background_Image {
+		opacity: 0.17;
+		/* position: absolute; */
+		width: 100%;
+		height: 954px;
+		left: -15px;
+		top: -63px;
+		overflow: visible;
+	}
+	#Scroll_Group_1 {
+		opacity: 0.9;
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 100%;
+		height: 280px;
+		left: 0px;
+		top: 197px;
+		overflow: hidden;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 100%;
+		height: 954px;
+		left: 0px;
+		top: -320px;
+		overflow: visible;
+	}
+	#Group_2 {
+		position: absolute;
+		width: 100%;
+		height: 934px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Car_Image {
+		position: absolute;
+		width: 100%;
+		height: 945px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Logo {
+		mix-blend-mode: color-burn;
+		position: absolute;
+		width: 448px;
+		height: 269.559px;
+		left: 130px;
+		top: 211px;
+		overflow: visible;
+	}
+	#Main_Logo {
+		mix-blend-mode: multiply;
+		position: absolute;
+		width: 203px;
+		height: 122px;
+		left: 130px;
+		top: 21px;
+		overflow: visible;
+	}
+
+	#Group_3 {
+		width: 129px;
+		height: 65px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	#_POST {
+		 filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		white-space: nowrap;
+		text-align: center;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: normal;
+		background-image: linear-gradient(rgb(65, 179, 214), rgb(70, 57, 95));
+        border-radius: 25px;
+        border:lawngreen;
+        color: white;
+        padding: 15px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+		opacity: 0.80;
+        position: absolute;
+		width: 109px;
+		height: 55px;
+		left: 1106px;
+		top: 54px;
+		overflow: visible;
+
+	}
+	#Post_Ad_Link{
+
+		color: white;
+		text-decoration: none;
+	}
+	  #Group_11 {
+		position: absolute;
+		width: 319px;
+		height: 84px;
+		left: 743px;
+		top: 40px;
+		overflow: visible;
+	}
+
+	#Log_In {
+		position: absolute;
+		overflow: visible;
+		width: 50px;
+		white-space: nowrap;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: normal;
+        font-size: 18px;
+        text-align: center;
+		color: rgba(255,255,255,1);
+        text-decoration: underline;
+		background-image: linear-gradient(rgb(65, 179, 214),rgb(70, 57, 95));
+        border-radius: 50%;
+		opacity: 0.80;
+        width: 70px;
+		height: 70px;
+		left: 150px;
+		top: 05px;
+	}
+	#Login_Link{
+		color:white;
+	}
+	#More li ul li a {
+		color:black;
+		text-decoration: none;
+	}
+	#View_Category li ul li{
+		background-image: linear-gradient( rgb(162, 216, 193), rgba(51, 115, 158, 0.952));
+	}
+
+	#Help_Center li ul li{
+		background-image: linear-gradient( rgb(162, 216, 193), rgba(51, 115, 158, 0.952));
+	}
+
+	#More li ul li{
+		background-image: linear-gradient( rgb(162, 216, 193), rgba(51, 115, 158, 0.952));
+	}
+	#Sign_Up {
+		white-space: nowrap;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: normal;
+        font-size: 18px;
+		background-image: linear-gradient(rgb(65, 179, 214), rgb(70, 57, 95));
+        border-radius: 50%;
+        text-align: center;
+		color: rgba(255,255,255,1);
+        text-decoration: underline;
+        position: absolute;
+		overflow: visible;
+		width: 70px;
+		height: 70px;
+		left: 255px;
+		top: 05px;
+		opacity: 0.80;
+
+	}
+	#Signup_Link{
+		color:white;
+	}
+	#About_Us {
+		white-space: nowrap;
+		text-align: left;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: normal;
+        font-size: 17px;
+		 background-image: linear-gradient(rgb(65, 179, 214), rgb(70, 57, 95));
+        border-radius: 50%;
+        text-align: center;
+		color: rgba(255,255,255,1);
+        text-decoration: underline;
+        position: absolute;
+		width: 70px;
+		height: 70px;
+		left: 43px;
+		top: 05px;
+		opacity: 0.80;
+        overflow: visible;
+
+	}
+	#Group_7 {
+		position: absolute;
+		width: 600px;
+		height: 59px;
+		left: 130px;
+		top: 152px;
+		overflow: visible;
+	}
+
+
+        .Menus {
+        width: 400px;
+        margin: 0 auto;
+        }
+        .Menus ul{
+        list-style: none;
+        margin-top: 0%;
+        }
+    .Menus ul li {
+         opacity: 0.95;
+         filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		background-image: linear-gradient( rgb(109, 90, 146), rgb(128, 210, 235));
+        width: 437px;
+        border: 2px solid rgba(50, 107, 212, 0.678);
+        height: 44px;
+        line-height: 45px;
+        text-align: center;
+        float: left;
+        color: rgb(0, 0, 0);
+
+        font-size: 19px;
+        position: relative;
+        font-family: Yu Gothic UI ;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .Menus ul li:hover{
+		background-image: linear-gradient( rgb(162, 216, 193), rgba(51, 115, 158, 0.952));
+    }
+
+    .Menus ul ul{
+        display: none;
+        margin-top: -1%;
+    }
+    .Menus ul li:hover > ul{
+        display: block;
+    }
+
+
+	#Group_8 .Menus ul li{
+    	width: 300px;
+	}
+
+	#Group_9 .Menus ul li{
+	    width: 300px;
+	}
+	#Polygon_1 {
+		fill: rgba(0,0,0,1);
+	}
+	.Polygon_1 {
+		overflow: visible;
+		position: absolute;
+		width: 15px;
+		height: 12px;
+		transform: translate(-130px, -157px) matrix(1,0,0,1,563,173) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_8 {
+		position: absolute;
+		width: 600px;
+		height: 59px;
+		left: 607px;
+		top: 152px;
+		overflow: visible;
+	}
+	#Help_Center {
+		width: 130px;
+		text-align: center;
+		bottom:05px;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(6,0,0,1);
+	}
+	#Polygon_1_ {
+		fill: rgba(0,0,0,1);
+	}
+	.Polygon_1_ {
+		overflow: visible;
+		position: absolute;
+		width: 15px;
+		height: 12px;
+		transform: translate(-180px, -157px) matrix(1,0,0,1,420,173) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_9 {
+		position: absolute;
+		width: 329px;
+		height: 59px;
+		left: 908px;
+		top: 152px;
+		overflow: visible;
+	}
+	#More {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(6,0,0,1);
+	}
+	#Polygon_1_ba {
+		fill: rgba(0,0,0,1);
+	}
+	.Polygon_1_ba {
+		overflow: visible;
+		position: absolute;
+		width: 15px;
+		height: 12px;
+		transform: translate(-180px, -157px) matrix(1,0,0,1,415,173) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_3 {
+		fill: rgba(179,165,174,0.231);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 1031px;
+		height: 297px;
+		left: 184.5px;
+		top: 503px;
+	}
+	#Featured_Ads {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		left: 222px;
+		top: 515px;
+		position: absolute;
+		overflow: visible;
+		width: 157px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(6,0,0,1);
+	}
+	#Rectangle_4 {
+		fill: rgba(225,254,255,1);
+		stroke: rgba(112,112,112,0.412);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 296px;
+		height: 227px;
+		left: 209px;
+		top: 571px;
+	}
+	#Rectangle_5 {
+		fill: rgba(225,254,255,1);
+		stroke: rgba(112,112,112,0.412);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 296px;
+		height: 227px;
+		left: 561px;
+		top: 571px;
+	}
+	#Rectangle_6 {
+		fill: rgba(225,254,255,1);
+		stroke: rgba(112,112,112,0.412);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_6 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 296px;
+		height: 227px;
+		left: 915px;
+		top: 571px;
+	}
+	#Car_Image_01 {
+		opacity: 0.99;
+		position: absolute;
+		width: 239px;
+		height: 119px;
+		left: 229px;
+		top: 585px;
+		overflow: visible;
+	}
+	#Car_Image_02 {
+		opacity: 0.99;
+		position: absolute;
+		width: 239px;
+		height: 119px;
+		left: 935px;
+		top: 585px;
+		overflow: visible;
+	}
+	#Bike_Image_01 {
+		opacity: 0.99;
+		position: absolute;
+		width: 239px;
+		height: 119px;
+		left: 580.5px;
+		top: 585px;
+		overflow: visible;
+	}
+	#Alto_2006_ {
+		left: 232px;
+		top: 713px;
+		position: absolute;
+		overflow: visible;
+		width: 108px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 23px;
+		color: rgba(10,0,83,1);
+	}
+	#Honda_Sedan_2017 {
+		left: 935px;
+		top: 713px;
+		position: absolute;
+		overflow: visible;
+		width: 195px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 23px;
+		color: rgba(10,0,83,1);
+	}
+	#Suzuki_YBR_2020 {
+		left: 581px;
+		top: 713px;
+		position: absolute;
+		overflow: visible;
+		width: 174px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 23px;
+		color: rgba(10,0,83,1);
+	}
+	#Lahore {
+		left: 232px;
+		top: 744px;
+		position: absolute;
+		overflow: visible;
+		width: 60px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 19px;
+		color: rgba(62,230,13,1);
+	}
+	#Karachi {
+		left: 935px;
+		top: 744px;
+		position: absolute;
+		overflow: visible;
+		width: 64px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 19px;
+		color: rgba(62,230,13,1);
+	}
+	#Islamabad {
+		left: 581px;
+		top: 744px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Yu Gothic UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 19px;
+		color: rgba(62,230,13,1);
+	}
+	#Heart1 {
+		position: absolute;
+		width: 51px;
+		height: 44px;
+		left: 397px;
+		top: 722px;
+		overflow: visible;
+	}
+	#Heart2 {
+		position: absolute;
+		width: 51px;
+		height: 44px;
+		left: 1129px;
+		top: 722px;
+		overflow: visible;
+	}
+	#Heart3 {
+		position: absolute;
+		width: 51px;
+		height: 44px;
+		left: 769px;
+		top: 722px;
+		overflow: visible;
+	}
+
+
+#main-end
+{
+ 	height:150px;
+ 	top:500px;
+ 	width:100%;
+ 	clear:both;
+ 	float:left;
+ 	margin:-200px auto;
+ 	min-width:995px;
+ 	background-color:lightblue;
+ 	text-align:left;
+}
+#end-1
+{
+ 	width:980px;
+ 	margin:-3px auto;
+ 	padding:0px;
+ 	border-bottom:1px solid #E6E6E6;
+ 	height:50px;
+ 	line-height:30px;
+ 	font-size:12px;
+ 	color:#ffffff;
+}
+#end-1 a
+{
+ 	color:#e5e9f1;
+ 	display:inline;
+ 	margin-left:10px;
+ 	text-decoration:none;
+}
+#end-1 a:hover
+{
+ 	text-decoration:underline;
+}
+#end-2
+{
+ 	width:980px;
+ 	margin:-3px auto;
+ 	padding:0px;
+ 	font-size:12px;
+ 	color:#ffffff;
+}
+#end-2 a
+{
+ 	color:#ffffff;
+ 	display:inline-block;
+ 	margin:5px;
+ 	margin-left:0px;
+ 	min-width:80px;
+ 	text-decoration:none;
+}
+#end-2 a:hover
+{
+ 	text-decoration:underline;
+}
+#main-end{
+	text-align:center;
+ 	width:100%;
+	margin:-70px auto;
+	padding:0px;
+	font-family:"lucida grande", tahoma , verdana , arial , sans-serif;
+	background: linear-gradient(rgb(67, 81, 151), #77777a);
+}
